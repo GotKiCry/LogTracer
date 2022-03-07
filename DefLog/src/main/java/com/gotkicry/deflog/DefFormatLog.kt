@@ -1,8 +1,6 @@
-package com.gotkicry.logtracer
+package com.gotkicry.deflog
 
 import android.util.Log
-import androidx.annotation.Nullable
-import org.jetbrains.annotations.NotNull
 
 /**
  * Only Debug Waring and Error Mode

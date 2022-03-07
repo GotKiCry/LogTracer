@@ -1,4 +1,4 @@
-package com.gotkicry.logtracer
+package com.gotkicry.deflog
 
 import android.util.Log
 
