@@ -86,7 +86,8 @@ object DefFormatLog {
                     }
                     Log.e(tag,"====================================================================================================")
                     if (error != null){
-                        Log.e(tag,"||  Error: ${error.cause}")
+                        Log.e(tag,"||  ${error.message}")
+                        Log.e(tag,"||  ${error.cause}")
                     }
                     isGetTag = true
                 }
